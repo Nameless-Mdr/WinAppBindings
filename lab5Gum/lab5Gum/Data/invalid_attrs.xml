@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ArrayOfCountry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Country>
+    <Continent>NorthAmerica</Continent>
+    <Name>Канада</Name>
+    <Population>1500000</Population>
+    <Capital>Оттава</Capital>
+    <Size>4353460</Size>
+    <ImagePath>C:\Users\radmi\RiderProjects\lab5Gum\lab5Gum\CountryImages\canada-flag.jpg</ImagePath>
+  </Country>
+  <Country>
+    <Continent>Africa</Continent>
+    <Name>Африка</Name>
+    <Population>232355</Population>
+    <Capital>Того</Capital>
+    <Size>0</Size>
+  </Country>
+  <Country>
+    <Continent>Asia</Continent>
+    <Name>Китая</Name>
+    <Population>788446</Population>
+    <Capital>Пекин</Capital>
+    <Size>7653445</Size>
+    <ImagePath>C:\Users\radmi\RiderProjects\lab5Gum\lab5Gum\CountryImages\843.jpg</ImagePath>
+  </Country>
+  <Country>
+    <Continent>Asia</Continent>
+    <Name>Россия</Name>
+    <Population>0</Population>
+    <Capital />
+    <Size>3453562</Size>
+    <ImagePath>\</ImagePath>
+  </Country>
+  <Country>
+    <Continent>Africa</Continent>
+    <Name />
+    <Population>0</Population>
+    <Capital />
+    <Size>0</Size>
+    <ImagePath>\</ImagePath>
+  </Country>
+  <Country>
+    <Continent>Europe</Continent>
+    <Name>Швейцария</Name>
+    <Population>675588</Population>
+    <Capital>Берн</Capital>
+    <Size>3453673</Size>
+    <ImagePath>\</ImagePath>
+  </Country>
+</ArrayOfCountry>
